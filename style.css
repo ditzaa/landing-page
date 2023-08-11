@@ -150,5 +150,59 @@ a{
     margin-top: -10px;
 }
 
+/* 4th part of the page - sign up for action*/
+.action-part{
+    padding: 50px 150px 50px 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.action-container{
+    background-color: #3882f6;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    height: auto;
+    color: #e5e7eb;
+    gap:20px;
+    padding: 15px 80px;
+}
+
+.right-action{
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    justify-content: flex-start;
+}
+
+h4{
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+#sign-up-msg{
+    margin-top: 0;
+    font-weight: 1;
+}
+
+#sign-up-2{
+    display: flex;
+    flex-grow: 0;
+    flex-shrink: 0;
+    align-self: center;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color:#E5E7EB;
+    border-color: #E5E7EB;
+    border-style: solid;
+    font-weight: bold;
+    border-width: 2px;
+    padding: 3px 10px;
+
+}
 
 
