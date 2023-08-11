@@ -5,14 +5,17 @@ body{
 .header-part{
     background-color: #1F2937; 
     padding-bottom: 10px;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .header{
     display: flex;
-    justify-content: space-around;
     align-items: center;
+    justify-content: space-between;
 }
 
 #header-title{
@@ -70,7 +73,8 @@ a{
 .content-header{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    padding-bottom: 100px;
+    justify-content: space-between;
 }
 
 #left-content{
