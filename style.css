@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
+    margin: 0;
 }
 
 .header-part{
@@ -75,6 +76,7 @@ a{
     align-items: center;
     padding-bottom: 100px;
     justify-content: space-between;
+    gap: 10px;
 }
 
 #left-content{
