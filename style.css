@@ -205,4 +205,15 @@ h4{
 
 }
 
+/* footer*/
+
+.footer{
+    background-color: #1F2937;
+    color:#E5E7EB;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: auto;
+    text-align: center;
+}
+
 
