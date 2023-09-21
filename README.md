@@ -17,3 +17,5 @@ Credits for the images used in this little project:
 - Pyramids Image (https://pixabay.com/photos/stars-night-sky-pyramids-sphinx-1096934/) - Karin Henseler(https://pixabay.com/users/sciencefreak-97947/);
 
 - New York Image (https://pixabay.com/photos/new-york-city-skyscraper-1745089/) - Iris Vallejo (https://pixabay.com/users/witizia-261998/).
+
+* This project is made by Mitu Adrian-Constantin as part of The Odin Project.
